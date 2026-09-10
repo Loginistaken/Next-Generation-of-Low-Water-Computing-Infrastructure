@@ -483,3 +483,4 @@ The complete strategy is not only building a faster computer.
 It is redesigning the entire AI infrastructure stack:
 
 **Compute less wastefully → Generate less heat → Capture remaining heat → Eliminate unnecessary water consumption.**
+see legal doc. CONCEPTUAL DEVELOPMENT.md
